@@ -32,3 +32,8 @@ DataCleaning.py
 <h3>EDA and machine learning</h3>
 Machine Learning.ipynb<br>
 Visualization.ipynb
+
+
+<br><br><br>
+---------------------------------------- Michael Syrel<br>
+---------------------------------------- Alex Savvateev
