@@ -21,3 +21,14 @@ Used for scrapping two different websites and comparing the rent prices over the
 
 Data samples provided in the powerpoint presentation
 
+<h3>Scrapper sources</h3>
+Scrapper1.py<br>
+Scrapper2.py
+
+<h3>Data Analysis and cleaning</h3>
+DataAnalysis.py<br>
+DataCleaning.py
+
+<h3>EDA and machine learning</h3>
+Machine Learning.ipynb<br>
+Visualization.ipynb
